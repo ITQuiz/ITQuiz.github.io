@@ -57,7 +57,7 @@ var questions = [
     new Question("Size of char is ?", ["1", "2", "4", "8"], "1"),
     new Question("C files are stored with which extension", [".Html", ".cpp", ".c", ".js"], ".c"),
     new Question("java was  a product of ?", ["Mysql", "Sql", "SUN", "Oracle"], "SUN"),
-    new Question("Java is a product of", ["Mysql", "SUN", "Oracle", "All"], "Oracle"),
+    new Question("Java is a product of ?", ["Mysql", "SUN", "Oracle", "All"], "Oracle"),
     new Question("Types of loops in c ?", ["1", "2", "3", "None"], "2"),
     new Question(".in stands for ?", ["India", "Inside", "Index", "none"], "India"),
     new Question("Rom stands for ?", ["Read only memory", "Read only main", "Rewrite only memory", "none"], "Read only memory"),
